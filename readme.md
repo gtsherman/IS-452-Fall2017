@@ -1,5 +1,9 @@
 # A public repo for the my Fall 2017 IS452 lecture notes
 
+## Status
+
+This is now complete and will no longer be added to.  This repo will now be the basis for the Spring 2018 semester.
+
 ## About
 
 This is the repo for the IS452 A/AO class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  The spring 2017 repo can be found [here](https://github.com/elliewix/LIS452-Spring2017Lectures).  
@@ -25,7 +29,7 @@ Jupyter notebooks should render nicely inside of github, but you'll need to down
 | 11     | [SQL](Lectures/Week-11-SQL.ipynb)                        | (R) SWC lesson on SQL                  | SQL quiz  <br>HW10                                           |
 | 12     | [XPath](Lectures/Week-12-XPath-A.ipynb)                      | (R) W3C links & my lesson              | XPath A quiz  <br>HW11  <br>Python vs Java essay due              |
 | 13     | Break                      |                                        | Thanksgiving Break Bash extra credit due                |
-| 14     | Processing XML             | (R) My lesson notes                    | XPath B quiz  <br>HW12  <br>Final project midpoint check-in due   |
-| 15     | Regular expressions        | (R) My lesson notes & TBD              | RegEx quiz  <br>HW13  <br>Turtle graphics essay due               |
+| 14     | [Processing XML](Lectures/Week-13-XPath-B.ipynb)             | (R) My lesson notes                    | XPath B quiz  <br>HW12  <br>Final project midpoint check-in due   |
+| 15     | [Regular expressions](Lectures/Week-14-RegEx.ipynb)        | (R) My lesson notes & TBD              | RegEx quiz  <br>HW13  <br>Turtle graphics essay due               |
 | 16     | Wrap up                    |                                        | Last class!                                             |
 | Finals |                            |                                        | Final project due near the end of finals week  date TBD |
